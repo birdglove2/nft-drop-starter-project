@@ -1,0 +1,25 @@
+{
+  "name": "Shiba Inu",
+  "symbol": "DOGIE",
+  "description": "Collection of 3 dogies on the blockchain",
+  "image": "1.png",
+  "attributes": [
+    { "trait_type": "Cuteness", "value": 100 },
+    { "trait_type": "Laziness", "value": 50 },
+    { "trait_type": "Loyalty", "value": 60 }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4VHTY9PG56eZZs6Qwv9rhVRAGfr6NUGB3CrKSCCifnTG",
+        "share": 100
+      }
+    ]
+  }
+}

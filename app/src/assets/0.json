@@ -1,0 +1,25 @@
+{
+  "name": "Pug",
+  "symbol": "DOGIE",
+  "description": "Collection of 3 dogies on the blockchain",
+  "image": "0.png",
+  "attributes": [
+    { "trait_type": "Cuteness", "value": 70 },
+    { "trait_type": "Laziness", "value": 100 },
+    { "trait_type": "Loyalty", "value": 90 }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4VHTY9PG56eZZs6Qwv9rhVRAGfr6NUGB3CrKSCCifnTG",
+        "share": 100
+      }
+    ]
+  }
+}

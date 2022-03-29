@@ -1,0 +1,25 @@
+{
+  "name": "St. Bernard",
+  "symbol": "DOGIE",
+  "description": "Collection of 3 dogies on the blockchain",
+  "image": "2.png",
+  "attributes": [
+    { "trait_type": "Cuteness", "value": 90 },
+    { "trait_type": "Laziness", "value": 20 },
+    { "trait_type": "Loyalty", "value": 80 }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4VHTY9PG56eZZs6Qwv9rhVRAGfr6NUGB3CrKSCCifnTG",
+        "share": 100
+      }
+    ]
+  }
+}
